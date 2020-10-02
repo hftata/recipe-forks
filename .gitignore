@@ -1,6 +1,6 @@
- # Ignore all files in the data/ directory
- data/
+# Ignore all files in the data/ directory
+data/
 
- #Ignore all files with a .out file extension
- *.out
- 
+#Ignore all files with a .out file extension
+*.out
+
